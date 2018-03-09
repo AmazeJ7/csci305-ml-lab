@@ -12,24 +12,24 @@ ML Lab Questions
 
 4. This line adds one to the head value and then recursively calls the function on the list's tail value.
 
-5.
+5. Question 5: false
 
-6.
+6. Tail recursion.
 
-7.
+7. Question 7: {best times, it was the worst of times }
 
-8.
+8. Tail recursion is useful because it needs one function instance. This means that it saves memory because it will only return the final result of this recursion. It rewrites the memory location as it calls itself so no extra memory is used.
 
-9.
+9. Question 9: { green eggs and ham }
 
-10.
+10. Question 10: { and macaroni }
 
-11.
+11. I like how functional this language feels and acts. Its fast and efficient like I strive to be. The tail recursion aspect is pretty amazing and should be used when using ML.
 
-12.
+12. ML could use some modernization. I don't like how clunky some of the language elements feel in terms of running the program. It gives you this clunky output that gets hard to read fast. Also the compilation errors are strange and at times unhelpful.
 
-13.
+13. I did enjoy this lab it was nice to learn ML and add it to my repertoire. I like how you use real world helpful functions that I could see myself using.
 
-14.
+14. 5 hours!
 
-15.
+15. I don't know if ML is good for most things. Possibly in some rare cases I will use it for its tail recursion.
