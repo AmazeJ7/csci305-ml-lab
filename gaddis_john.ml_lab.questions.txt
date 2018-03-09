@@ -3,8 +3,7 @@ CSCI 305
 Spring 2018
 ML Lab Questions
 =======================
-1. The output is:
-    val it = [4, 2, 5, 2, 6, 10]: int list
+1. The output is: val it = [4, 2, 5, 2, 6, 10]: int list
 
 2. This function increments every value in an array by 1.
 
